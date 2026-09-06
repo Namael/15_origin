@@ -33,7 +33,7 @@ Struktura kopíruje navigaci původního webu.
 
 Program byl na starém webu rozdělený na deset samostatných stránek. Tady je
 na jedné, s rejstříkem po straně, který sleduje pozici při čtení. Na mobilu
-se kapitoly sbalují. Všech 139 programových bodů je zachováno.
+se kapitoly sbalují. Všech 129 programových bodů je zachováno.
 
 Archiv obsahuje všech 213 článků z let 2018 až 2020, s filtrem podle roku.
 
