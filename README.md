@@ -31,11 +31,25 @@ Struktura kopíruje navigaci původního webu.
 | `#/studie` | Koncepční studie koalice | `/koncepcni-studie-koalice` |
 | `#/radnice` | Radnice pro občany | `/kopie-4-roky-na-radnici` |
 
-Program byl na starém webu rozdělený na deset samostatných stránek. Tady je
-na jedné, s rejstříkem po straně, který sleduje pozici při čtení. Na mobilu
-se kapitoly sbalují. Všech 129 programových bodů je zachováno.
+## Hustota, ne rozvláčnost
 
-Archiv obsahuje všech 213 článků z let 2018 až 2020, s filtrem podle roku.
+Web je stavěný tak, aby se muselo co nejméně rolovat.
+
+První obrazovka nese všechno podstatné najednou: titulek, odstavec
+„KDO JSME?" jako shrnutí, číslo transparentního účtu, oba QR kódy pro dar,
+termín voleb, banner a rozcestník na čtyři hlavní stránky. Nic z toho není
+schované pod záhybem.
+
+Zbylé čtyři otázky z původní titulky jsou vedle sebe ve čtyřech sloupcích,
+ne pod sebou.
+
+Program byl na starém webu rozdělený na deset samostatných stránek. Tady je
+na jedné. Kapitoly jsou sbalené, takže celý program je vidět jako seznam
+deseti řádků a rozbalíte si jen to, co vás zajímá. Úvodní text je vysázený
+do dvou sloupců. Všech 129 programových bodů je zachováno.
+
+Archiv obsahuje všech 213 článků z let 2018 až 2020 jako hustý dvousloupcový
+seznam s filtrem podle roku. Perex se rozbalí po kliknutí na titulek.
 
 ## Vizuální směr
 
